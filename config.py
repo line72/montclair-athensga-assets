@@ -21,8 +21,8 @@ CONFIG = transmogrifier.Config(
         version = '2.0.6',
         revision = 1,
         app_id = 'com.gotransitapp.athensga',
-        app_store_id = 'REPLACE_ME',
-        app_store_url = 'https://apps.apple.com/us/app/go-athensga/idREPLACE_ME'
+        app_store_id = '1495117735',
+        app_store_url = 'https://apps.apple.com/us/app/go-athens-ga/id1495117735'
     ),
     android_config = transmogrifier.MontclairAndroidConfig(
         version = '1.0.2',

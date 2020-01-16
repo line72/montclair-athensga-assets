@@ -18,7 +18,7 @@ CONFIG = transmogrifier.Config(
         configuration_js_file = 'assets/Configuration.js'
     ),
     ios_config = transmogrifier.MontclairiOSConfig(
-        version = '2.0.5',
+        version = '2.0.6',
         revision = 1,
         app_id = 'com.gotransitapp.athensga',
         app_store_id = 'REPLACE_ME',

@@ -18,6 +18,10 @@ class Configuration {
     constructor() {
         // Athens, GA
         this.center = [33.958824, -83.377606];
+        this.tileserver = {
+            url: 'https://athensga.gotransitapp.com/tiles/{z}/{x}/{y}.png',
+            subdomains: ''
+        };
 
         this.agencies = [
             {
